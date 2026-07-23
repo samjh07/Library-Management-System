@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# IDE folders
+.vscode/
+.settings/
+.project
+.classpath
+
+# Build folders
+bin/
+out/
+
+# Data files
+data/books.dat
